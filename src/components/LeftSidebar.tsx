@@ -71,7 +71,7 @@ const LeftSidebar = () => {
                 flex 
                 items-center
                 justify-start
-                w-full
+                w-fit
                 space-x-4 
                 py-3
                 px-6
